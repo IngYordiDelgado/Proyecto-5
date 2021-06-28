@@ -31,7 +31,7 @@ Mediante el método:
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5
 + [[https://youtu.be/MhqHcNkc41Y][Video en YT]]
-[[./Images/geografico_30_nodos.PNG]]
+[[./Images/Geografico_30_nodos.PNG]]
 
 * Modelo Barabasi
 ** 30 nodos y grado 10
