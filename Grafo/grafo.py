@@ -752,7 +752,7 @@ class Grafo:
             const = k2 * dl / ds
             return [const * dx, const * dy]
 
-        def move():
+        def actualizar_grafo():
             ekint = [0.0, 0.0]
             for i in range(m):
                 Fx = 0.0
@@ -792,7 +792,7 @@ class Grafo:
         def main():
 
             while run:
-                move()
+                actualizar_grafo()
                 pygame.display.update()
                 pygame.time.Clock().tick(2000)
                 for event in pygame.event.get():
