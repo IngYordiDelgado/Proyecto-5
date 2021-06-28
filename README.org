@@ -40,4 +40,4 @@ Mediante el método:
 * Modelo Dorogovtsev
 ** 30 nodos
 + [[https://youtu.be/JhBmz9otV7s][Video en YT]]
-[[./Images/Dogorostev_30_nodos.PGN]]
+[[./Images/dogorostev 30 nodos.PNG]]
