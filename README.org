@@ -17,7 +17,7 @@ Mediante el método:
 * Modelo de Mallas
 ** 30 nodos(5x6)
 + [[https://youtu.be/BqHsRr_4CRU][Video en YT]]
-[[./Images/Mallas/Mallas_30.png]]
+[[./Images/Mallas_30_nodos]]
 
 
 ** 500 nodos(50x10)
