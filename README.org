@@ -18,6 +18,9 @@ Mediante el método:
 ** 30 nodos(5x6)
 + [[https://youtu.be/BqHsRr_4CRU][Video en YT]]
 [[./Images/Mallas_30_nodos.PNG]]
+** 500 nodos(10x50)
++ [[https://youtu.be/z3Rs7YdQmY0][Video en YT]]
+[[./Images/Mallas_500_nodos.PNG]]
 
 * Modelo de Erdos y Renyi
 ** 30 Nodos y 200 Aristas
