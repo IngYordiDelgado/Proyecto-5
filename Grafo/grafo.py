@@ -758,8 +758,6 @@ class Grafo:
                 Fx = 0.0
                 Fy = 0.0
                 for j in range(m):
-                    # if j == 1:
-                    #     continue
                     dij = l[i][j]
                     Fij = 0.0
                     if dij == 0.0:
@@ -772,8 +770,6 @@ class Grafo:
                 v[i][1] = (v[i][1] + k1 * Fy * delta_t) * c2
                 ekint[0] = ekint[0] + k1 * (v[i][0] * v[i][0])
                 ekint[1] = ekint[1] + k1 * (v[i][1] * v[i][1])
-
-            print("total kinetic energy: %lf" % math.sqrt(ekint[0] * ekint[0] + ekint[1] * ekint[1]))
             WIN.fill((0, 0, 0))
 
             for i in range(m):
