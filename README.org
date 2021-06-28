@@ -44,3 +44,6 @@ Mediante el método:
 ** 30 nodos
 + [[https://youtu.be/JhBmz9otV7s][Video en YT]]
 [[./Images/dogorostev 30 nodos.PNG]]
+** 500 nodos
++ [[https://youtu.be/vjwPFUs6rVo][Video en YT]]
+[[./Images/dogorostev_500_nodos.PNG]]
