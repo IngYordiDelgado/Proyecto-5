@@ -727,12 +727,12 @@ class Grafo:
 
         for i in range(m):
             for j in range(m):
-                if l[i][j] != 0:  # i.e the line an edge exists
+                if l[i][j] != 0: 
 
                     lids.append(id)
                     actualizar_arista(x[i], x[j])
 
-        def fuerza_rep_calc(xi, xj):  # repulsive force
+        def fuerza_rep_calc(xi, xj):    # Calculo Fuerza de repulsion
             dx = xj[0] - xi[0]
             dy = xj[1] - xi[1]
             ds2 = dx * dx + dy * dy
@@ -744,7 +744,7 @@ class Grafo:
                 const = c1 / (ds2 * ds)
             return [-const * dx, -const * dy]
 
-        def fuerza_atrac_calc(xi, xj, dij):  # attractive force
+        def fuerza_atrac_calc(xi, xj, dij):  # Calculo Fuerza de atraccion
             dx = xj[0] - xi[0]
             dy = xj[1] - xi[1]
             ds = math.sqrt(dx * dx + dy * dy)
