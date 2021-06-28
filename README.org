@@ -19,43 +19,14 @@ Mediante el método:
 + [[https://youtu.be/BqHsRr_4CRU][Video en YT]]
 [[./Images/Mallas_30_nodos.PNG]]
 
-
-** 500 nodos(50x10)
-- [[./Archivos gv/Mallas/grafo_malla_500_nodos.gv][Archivo Graphviz]]
-[[./Images/Mallas/Mallas_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Mallas/grafo_malla_500_nodos_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Mallas/Mallas_500_dijkstra.png]]
-
 * Modelo de Erdos y Renyi
 ** 30 Nodos y 200 Aristas
-- [[./Archivos gv/Erdos/grafo_erdos_30_200.gv][Archivo Graphviz]]
-[[./Images/Erdos/Erdos_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Erdos/grafo_erdos_30_200_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Erdos/Erdos_30_dijkstra.png]]
-
-** 500 Nodos y 2500 Aristas
-- [[./Archivos gv/Erdos/grafo_erdos_500_2500.gv][Archivo Graphviz]]
-[[./Images/Erdos/Erdos_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Erdos/grafo_erdos_500_2500_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Erdos/Erdos_500_dijkstra.png]]
-
++ [[https://youtu.be/sKDzFCc18rI][Video en YT]]
+[[./Images/Erdos_30_nodos.PNG]]
 * Modelo de Gilbert
 ** 30 nodos y probabilidad 0.5
-- [[./Archivos gv/Gilbert/grafo_gilbert_30_05.gv][Archivo Graphviz]]
-[[./Images/Gilbert/Gilbert_30 .png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Gilbert/grafo_gilbert_30_05_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Gilbert/Gilbert_30_dijkstra .png]]
-
-** 500 nodos y probabilidad 0.02
-- [[./Archivos gv/Gilbert/grafo_gilbert_500_002.gv][Archivo Graphviz]]
-[[./Images/Gilbert/Gilbert_500 .png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Gilbert/grafo_gilbert_500_002_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Gilbert/Gilbert_500_dijkstra .png]]
++ [[https://youtu.be/YkKqRxOy808][Video en YT]]
+[[./Images/Gilbert_30_nodos.PNG]]
 
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5
