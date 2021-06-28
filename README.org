@@ -30,46 +30,14 @@ Mediante el método:
 
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5
-- [[./Archivos gv/Geografico/grafo_geografico_30_05.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Geografico/grafo_geografico_30_05_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_30_dijkstra.png]]
-
-** 500 nodos y distancia 0.15
-- [[./Archivos gv/Geografico/grafo_geografico_500_01.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Geografico/grafo_geografico_500_01_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_500_dijkstra.png]]
++ [[https://youtu.be/MhqHcNkc41Y][Video en YT]]
+[[./Images/geografico_30_nodos.png]]
 
 * Modelo Barabasi
 ** 30 nodos y grado 10
-- [[./Archivos gv/Babarasi/grafo_babarasi_30_10.gv][Archivo Graphviz]]
-[[./Images/Babarasi/Babarasi_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Babarasi/grafo_babarasi_30_10_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Babarasi/Babarasi_30_dijkstra.png]]
-
-** 500 nodos y grado 12
-- [[./Archivos gv/Babarasi/grafo_babarasi_500_12.gv][Archivo Graphviz]]
-[[./Images/Babarasi/Babarasi_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Babarasi/grafo_babarasi_500_12_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Babarasi/Babarasi_500_dijkstra.png]]
-
++ [[https://youtu.be/KMtHhpZXgr0][Video en YT]]
+[[./Images/Babarasi_30_nodos.png]]
 * Modelo Dorogovtsev
 ** 30 nodos
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_30_dijkstra.png]]
-
-** 500 nodos
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_500_dijkstra.png]]
-
++ [[https://youtu.be/JhBmz9otV7s][Video en YT]]
+[[./Images/Dogorostev/Dogorostev_30_nodos.png]]
